@@ -2,13 +2,13 @@
 
 **MSc Bioinformatics | Molecular Biology | Machine Learning | Multi-omics Integration**
 
-Welcome to my GitHub profile! I am a graduate bioinformatician with a strong academic foundation in molecular biology, complemented by interdisciplinary training in computational biology, statistics, and scalable data architecture. My work bridges experimental and computational domains, with a focus on biomedical discovery and translational research.
+Welcome to my GitHub profile! I am a graduate bioinformatician with a strong academic foundation in molecular biology, complemented by interdisciplinary training in computational data analysis, machine learning, and scalable data infrastructure. My work bridges experimental and computational domains, with a focus on biomedical discovery and translational research.
 
 ---
 
 ## 🔬 Research Focus & Technical Interests
 
-- **Multi-omics Data Integration**: Harmonising and analysing high-dimensional proteomics and transcriptomics datasets across cohorts.
+- **Multi-omics Data Integration**: Harmonising and analysing high-dimensional multi-omics datasets from diverse clinical and experimental sources.
 - **Machine Learning & Deep Learning**: Applying traditional ML and deep neural networks for classification, regression, and biomarker discovery in biomedical data.
 - **Computational Biology Pipelines**: Building workflows for the integration, analysis, and interpretation of diverse omics datasets (e.g., transcriptomics, proteomics, metabolomics), with emphasis on biological insight and phenotype linkage.
 - **Data Infrastructure & Visualisation**: Developing APIs and web platforms for scientific data access, visualisation, and interaction.
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a graduate bioinformatician with a strong aca
 ### 🔷 PlaqueMS (Private Repository)
 *A secure web platform for multi-cohort atherosclerosis omics analysis (MSc Thesis Project)*  
 - Designed and implemented using Django, MySQL, and Neo4j.  
-- Integrated multi-modal proteomics and clinical metadata.
+- Integrated multi-modal proteomics and clinical metadata across three independent cohorts.
 - Supports phenotype-driven exploration, protein network visualisation, and embedded ML models (SVM, Random Forest, Elastic Net) optimised via a multi-objective evolutionary algorithm.
 
 > **Note:** This repository is currently private due to inclusion of data from an unpublished study and will be made public following its publication (expected in 6–12 months).
