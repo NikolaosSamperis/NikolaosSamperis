@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I am a graduate bioinformatician with a strong aca
 ### 🧪 [RNA-seq Analysis Pipeline](https://github.com/NikolaosSamperis/Reconstruction-of-RNA-seq-analysis)
 *Reconstructed and benchmarked RNA-seq analysis to assess reproducibility and methodological transparency*
 - Preprocessed RNA-seq data from SRA, including quality assessment with `FastQC`, alignment using `STAR`, and read quantification with `featureCounts`.
-- Performed differential expression and GO/KEGG enrichment analysis in R using Bioconductor packages (e.g. DESeq2, clusterProfiler).  
+- Performed differential expression and GO/KEGG enrichment analysis in R using Bioconductor packages (e.g. `DESeq2`, `clusterProfiler`).  
 - Generated visualisations in R, including PCA for batch effect assessment, as well as heatmaps and volcano plots for differential expression.
 
 ### 🧠 [CNN–Retinal Disease Classifier](https://github.com/NikolaosSamperis/CNN-RetinalDisease-Pipeline)
