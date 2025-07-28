@@ -45,13 +45,14 @@ Welcome to my GitHub profile! I am a graduate bioinformatician with a strong aca
 
 ## 🧰 Tools & Technologies
 
-**Languages**: Python, R, SQL, Cypher, Bash, HTML, JavaScript, CSS3   
-**Libraries**: TensorFlow, Keras, scikit-learn, SciPy, DESeq2, limma, clusterProfiler  
-**Web Dev**: Django, Django REST Framework, RShiny, Bootstrap  
-**Databases**: MySQL, Neo4j  
-**Visualisation**: ggplot2, Seaborn, Plotly, Matplotlib  
-**Workflow Management**: SLURM, Nextflow, Git, Docker  
-**Environments**: HPC, LIMS, GLP/GCP-compliant diagnostics
+- **Programming & Scripting**: Python, R, Bash
+- **Databases & Data Management**: MySQL, Neo4j, SQL, Cypher
+- **Web & API Development**: Django, Django REST Framework, RShiny, HTML, CSS3, JavaScript, Bootstrap
+- **Bioinformatics Tools**: FastQC, STAR, Bowtie2, Samtools, DESeq2, featureCounts, clusterProfiler, Bioconductor
+- **Statistical Analysis & Visualisations**: IBM SPSS, SciPy, statsmodels, scikit-posthocs, numpy, pandas, ggplot2, Seaborn, Plotly, Matplotlib, UMAP, t-SNE
+- **Machine Learning**: TensorFlow, Keras, scikit-learn, CNNs, SVMs, Random Forests, regression analysis, multi-objective evolutionary algorithms, model fine-tuning and transfer learning.
+- **Workflow Management**: Nextflow, SLURM, Docker, high-performance computing (HPC) environments
+- **Version Control**: Git
 
 ---
 
