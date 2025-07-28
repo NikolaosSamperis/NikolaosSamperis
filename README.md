@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I am a graduate bioinformatician with a strong aca
 
 ## 🧑‍🔬 Background
 
-I hold a BSc in Biology and recently completed an MSc in Applied Bioinformatics at **King’s College London**. I’ve worked in regulated diagnostic and preclinical environments (hVIVO, Ridgeway Research Ltd.), gaining experience in sample processing, regulatory compliance, and digital data systems.
+I hold a BSc (Hons) in Biology and recently completed an MSc in Applied Bioinformatics at **King’s College London**. I’ve worked in regulated diagnostic and preclinical environments at **hVIVO Plc.** and **Ridgeway Research Ltd.**, gaining experience in sample processing, regulatory compliance (GLP/GCP), and digital data systems.
 
 ---
 
