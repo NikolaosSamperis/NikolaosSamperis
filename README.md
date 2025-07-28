@@ -2,7 +2,7 @@
 
 **MSc Bioinformatics | Molecular Biology | Machine Learning | Multi-omics Integration**
 
-Welcome to my GitHub profile! I am a bioinformatician with a strong academic foundation in molecular biology, complemented by interdisciplinary training in computational biology, statistics, and scalable data architecture. My work bridges experimental and computational domains, with a focus on biomedical discovery and translational research.
+Welcome to my GitHub profile! I am a graduate bioinformatician with a strong academic foundation in molecular biology, complemented by interdisciplinary training in computational biology, statistics, and scalable data architecture. My work bridges experimental and computational domains, with a focus on biomedical discovery and translational research.
 
 ---
 
@@ -26,9 +26,10 @@ Welcome to my GitHub profile! I am a bioinformatician with a strong academic fou
 > **Note:** This repository is currently private due to inclusion of data from an unpublished study and will be made public following its publication (expected in 6–12 months).
 
 ### 🧪 [RNA-seq Analysis Pipeline](https://github.com/NikolaosSamperis/Reconstruction-of-RNA-seq-analysis)
-*Replicated and extended a published yeast transcriptomics study*  
-- DESeq2 workflow with GO/KEGG enrichment using Bioconductor packages.  
-- PCA, heatmaps, volcano plots, and batch effect assessment in R.
+*Reconstructed and benchmarked RNA-seq analysis to assess reproducibility and methodological transparency*
+- Preprocessed RNA-seq data from SRA, including quality assessment with `FastQC`, alignment using `STAR`, and read quantification with `featureCounts`.
+- Performed differential expression and GO/KEGG enrichment analysis in R using Bioconductor packages (e.g. DESeq2, clusterProfiler).  
+- Generated visualisations in R, including PCA for batch effect assessment, as well as heatmaps and volcano plots for differential expression.
 
 ### 🧠 [CNN–Retinal Disease Classifier](https://github.com/NikolaosSamperis/CNN-RetinalDisease-Pipeline)
 *Deep learning-based image classification for glaucoma and cataract detection*  
@@ -57,15 +58,6 @@ Welcome to my GitHub profile! I am a bioinformatician with a strong academic fou
 ## 🧑‍🔬 Background
 
 I hold a BSc in Biology and recently completed an MSc in Applied Bioinformatics at **King’s College London**. I’ve worked in regulated diagnostic and preclinical environments (hVIVO, Ridgeway Research Ltd.), gaining experience in sample processing, regulatory compliance, and digital data systems.
-
----
-
-## 📫 Let’s Connect
-
-- 📍 Carshalton, United Kingdom  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nikolaos-samperis/)  
-- 💻 [GitHub](https://github.com/NikolaosSamperis)  
-- 📧 nick.saberis@yahoo.com
 
 ---
 
