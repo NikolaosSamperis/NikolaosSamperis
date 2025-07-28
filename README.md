@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I am a graduate bioinformatician with a strong aca
 
 ### 🧠 [CNN–Retinal Disease Classifier](https://github.com/NikolaosSamperis/CNN-RetinalDisease-Pipeline)
 *Deep learning-based image classification for glaucoma and cataract detection*  
-- Transfer learning using **EfficientNetB0** and **DenseNet-121** with custom classification heads.  
+- Transfer learning using **EfficientNetB0** and **DenseNet-121** with a custom classification head and selective fine-tuning.  
 - Data augmentation, focal loss, and validation strategies applied to improve sensitivity.
 
 ### 🧬 [Genotype2Phenotype Dashboard](https://github.com/NikolaosSamperis/Genotype2Phenotype)
