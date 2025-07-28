@@ -38,8 +38,8 @@ Welcome to my GitHub profile! I am a graduate bioinformatician with a strong aca
 
 ### 🧬 [Genotype2Phenotype Dashboard](https://github.com/NikolaosSamperis/Genotype2Phenotype)
 *Interactive RShiny dashboard for exploring gene–phenotype links in mouse models*  
-- MySQL-backed, with UMAP clustering and dimensionality reduction.  
-- Robust preprocessing and dynamic filtering features.
+- MySQL-backed dashboard with UMAP-driven clustering and interactive visualisation.  
+- Robust preprocessing and dynamic filtering of gene–phenotype associations.
 
 ---
 
