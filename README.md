@@ -45,9 +45,9 @@ Welcome to my GitHub profile! I am a graduate bioinformatician with a strong aca
 
 ## 🧰 Tools & Technologies
 
-**Languages**: Python, R, SQL, Cypher, Bash  
+**Languages**: Python, R, SQL, Cypher, Bash, HTML, JavaScript, CSS3   
 **Libraries**: TensorFlow, Keras, scikit-learn, SciPy, DESeq2, limma, clusterProfiler  
-**Web Dev**: Django, Django REST Framework, RShiny  
+**Web Dev**: Django, Django REST Framework, RShiny, Bootstrap  
 **Databases**: MySQL, Neo4j  
 **Visualisation**: ggplot2, Seaborn, Plotly, Matplotlib  
 **Workflow Management**: SLURM, Nextflow, Git, Docker  
