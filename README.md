@@ -61,5 +61,5 @@ I hold a BSc (Hons) in Biology and recently completed an MSc in Applied Bioinfor
 
 ---
 
-> “Making biomedical data accessible, interpretable, and actionable.”
+*“Making biomedical data accessible, interpretable, and actionable.”*
 
