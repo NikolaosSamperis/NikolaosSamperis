@@ -46,7 +46,8 @@ Welcome to my GitHub profile! I am a graduate bioinformatician with a strong aca
 ## 🧰 Tools & Technologies
 
 - **Programming & Scripting**: Python, R, Bash
-- **Databases & Data Management**: MySQL, Neo4j, SQL, Cypher
+- **Databases & Data Management**: MySQL, Neo4j, SQL, Cypher; <br>
+  familiar with key bioinformatics resources (NCBI, UniProt, ENSEMBL, BioSamples, PRIDE, KEGG, STRING)
 - **Web & API Development**: Django, Django REST Framework, RShiny, HTML, CSS3, JavaScript, Bootstrap
 - **Bioinformatics Tools**: FastQC, STAR, Bowtie2, Samtools, DESeq2, featureCounts, clusterProfiler, Bioconductor
 - **Statistical Analysis & Visualisations**: IBM SPSS, SciPy, statsmodels, scikit-posthocs, numpy, pandas, ggplot2, Seaborn, Plotly, Matplotlib, UMAP, t-SNE
