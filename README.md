@@ -17,12 +17,15 @@ Welcome to my GitHub profile! I am a graduate bioinformatician with a strong aca
 
 ## 🧠 Selected Projects
 
-### 🔷 [PlaqueMS Project](https://github.com/NikolaosSamperis/PlaqueMS_project)
+### 🔷 PlaqueMS Project *(repository currently private)*
 *A secure web platform for multi-cohort atherosclerosis omics analysis (MSc Thesis Project)*  
 - Designed and implemented using Django, MySQL, and Neo4j.  
 - Integrated multi-modal proteomics and clinical metadata from human atherosclerotic plaques across three independent cohorts.
 - Supports phenotype-driven exploration, protein network visualisation (Cytoscape), and embedded ML models (SVM, Random Forest, Elastic Net Regression) optimised via a multi-objective evolutionary algorithm.
 
+📌 **Note:**  
+>The repository is currently **private due to ongoing research and manuscript preparation**.  
+>The full source code and documentation will be **publicly released after publication**.
 
 ### 🧪 [RNA-seq Analysis Pipeline](https://github.com/NikolaosSamperis/Reconstruction-of-RNA-seq-analysis)
 *Reconstructed and benchmarked RNA-seq analysis to assess reproducibility and methodological transparency*
