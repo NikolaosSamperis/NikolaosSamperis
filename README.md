@@ -30,7 +30,11 @@ Welcome to my GitHub profile! I am a graduate bioinformatician with a strong aca
 ### 📊 [Breast Cancer Screening Statistical Analysis](https://github.com/NikolaosSamperis/breast-cancer-screening-statistical-analysis)
 *Reproducible statistical analysis of factors associated with breast cancer screening uptake*
 
-- End-to-end statistical analysis workflow in **R**, including data cleaning, validation, exploratory analysis, and multivariable logistic regression modelling.
+- End-to-end statistical analysis workflow in **R**, including:
+  - data cleaning
+  - validation
+  - exploratory analysis
+  - multivariable logistic regression modelling
 - Investigated demographic and behavioural factors influencing screening attendance across **12 clinical teams (528 patients)**.
 - Identified significant predictors of screening participation while assessing patterns of missing data and potential heterogeneity between clinical teams.
 
