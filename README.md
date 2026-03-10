@@ -27,6 +27,13 @@ Welcome to my GitHub profile! I am a graduate bioinformatician with a strong aca
 >The repository is currently **private due to ongoing research and manuscript preparation**.  
 >The full source code and documentation will be **publicly released after publication**.
 
+### 📊 [Breast Cancer Screening Statistical Analysis](https://github.com/NikolaosSamperis/breast-cancer-screening-statistical-analysis)
+*Reproducible statistical analysis of factors associated with breast cancer screening uptake*
+
+- End-to-end statistical analysis workflow in **R**, including data cleaning, validation, exploratory analysis, and multivariable logistic regression modelling.
+- Investigated demographic and behavioural factors influencing screening attendance across **12 clinical teams (528 patients)**.
+- Identified significant predictors of screening participation while assessing patterns of missing data and potential heterogeneity between clinical teams.
+
 ### 🧪 [RNA-seq Analysis Pipeline](https://github.com/NikolaosSamperis/Reconstruction-of-RNA-seq-analysis)
 *Reconstructed and benchmarked RNA-seq analysis to assess reproducibility and methodological transparency*
 - Preprocessed RNA-seq data from SRA, including quality assessment with `FastQC`, alignment using `STAR`, and read quantification with `featureCounts`.
