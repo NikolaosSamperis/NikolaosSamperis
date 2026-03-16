@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Nikolaos Samperis
 
-**MSc Bioinformatics | Molecular Biology | Machine Learning | Multi-omics Integration**
+**Bioinformatics | Data Science | Statistical Modelling | Machine Learning | Multi-omics**
 
-Welcome to my GitHub profile! I am a graduate bioinformatician with a strong academic foundation in molecular biology, complemented by interdisciplinary training in computational data analysis, machine learning, and scalable data infrastructure. My work bridges experimental and computational domains, with a focus on biomedical discovery and translational research.
+Welcome to my GitHub profile. I am a bioinformatician and data scientist with a strong academic foundation in molecular biology and interdisciplinary training in statistics, machine learning, and computational data systems. My work focuses on extracting meaningful insights from complex biological and clinical datasets through reproducible analytical workflows, statistical modelling, and scalable computational pipelines.
 
 ---
 
