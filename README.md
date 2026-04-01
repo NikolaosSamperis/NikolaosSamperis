@@ -18,15 +18,17 @@ I am a bioinformatician and data scientist with a strong academic foundation in 
 
 ## 🧠 Selected Projects
 
-### 🔷 PlaqueMS Project *(repository currently private)*
+### 🔷 [PlaqueMS Project](https://github.com/NikolaosSamperis/PlaqueMS-Platform)
 *A secure web platform for multi-cohort atherosclerosis omics analysis (MSc Thesis Project)*  
-- Designed and implemented using Django, MySQL, and Neo4j.  
+- Developed using Django (Python) for the backend and JavaScript, HTML, and CSS for the frontend, with a hybrid database architecture combining MySQL and Neo4j.  
 - Integrated multi-modal proteomics and clinical metadata from human atherosclerotic plaques across three independent cohorts.
 - Supports phenotype-driven exploration, protein network visualisation (Cytoscape), and embedded ML models (SVM, Random Forest, Elastic Net Regression) optimised via a multi-objective evolutionary algorithm.
 
 📌 **Note:**  
->The repository is currently **private due to ongoing research and manuscript preparation**.  
->The full source code and documentation will be **publicly released after publication**.
+>This repository provides a partial view of the project. The core source code remains restricted due to ongoing research and manuscript preparation.
+>  
+>A full public release of the code and documentation will be made available after publication.
+<br>
 
 ### 📊 [Breast Cancer Screening Statistical Analysis](https://github.com/NikolaosSamperis/breast-cancer-screening-statistical-analysis)
 *Reproducible statistical analysis of factors associated with breast cancer screening uptake*
@@ -38,17 +40,20 @@ I am a bioinformatician and data scientist with a strong academic foundation in 
   - multivariable logistic regression modelling
 - Investigated demographic and behavioural factors influencing screening attendance across **12 clinical teams (528 patients)**.
 - Identified significant predictors of screening participation while assessing patterns of missing data and potential heterogeneity between clinical teams.
+<br>
 
 ### 🧪 [RNA-seq Analysis Pipeline](https://github.com/NikolaosSamperis/Reconstruction-of-RNA-seq-analysis)
 *Reconstructed and benchmarked RNA-seq analysis to assess reproducibility and methodological transparency*
 - Preprocessed RNA-seq data from SRA, including quality assessment with `FastQC`, alignment using `STAR`, and read quantification with `featureCounts`.
 - Performed differential expression and GO/KEGG enrichment analysis in R using Bioconductor packages (e.g. `DESeq2`, `clusterProfiler`).  
 - Generated visualisations in R, including PCA for batch effect assessment, as well as heatmaps and volcano plots for differential expression.
+<br>
 
 ### 🧠 [CNN–Retinal Disease Classifier](https://github.com/NikolaosSamperis/CNN-RetinalDisease-Pipeline)
 *Deep learning-based image classification for glaucoma and cataract detection*  
 - Transfer learning using **EfficientNetB0** and **DenseNet-121** with a custom classification head and selective fine-tuning.  
 - Data augmentation, focal loss, and validation strategies applied to improve sensitivity.
+<br>
 
 ### 🧬 [Genotype2Phenotype Dashboard](https://github.com/NikolaosSamperis/Genotype2Phenotype)
 *Interactive RShiny dashboard for exploring gene–phenotype links in mouse models*  
