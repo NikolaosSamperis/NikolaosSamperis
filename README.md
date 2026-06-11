@@ -32,7 +32,7 @@ I am particularly drawn to **applied ML and predictive modelling** — using dat
 >A full public release of the code and documentation will be made available after publication.
 <br>
 
-### 🤖 [GenAI Natural-Language Data Assistant](https://github.com/NikolaosSamperis/genai-data-assistant)
+### 🤖 [GenAI Natural-Language Data Assistant](https://github.com/NikolaosSamperis/ads-programmer-coding-assessment/tree/main/question_6_genai)
 *An LLM-powered assistant that lets users explore datasets through plain-English questions — no code required*
 - Built with **Python, LangChain, and the Claude API**, translating natural-language questions into executable `pandas` queries.
 - Implemented **prompt engineering** and **structured output (Pydantic)** to ensure reliable, validated, and reproducible responses.
